@@ -1,2 +1,1 @@
-Um jogo da velha utilizando java swing para a
-GUI e inteligência arificial para jogar contra o usuário. Quase imbatível
+An "O" and "X" game built in Jva implementing Artificial Inteligence. Almost unbeatable.
